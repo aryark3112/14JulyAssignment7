@@ -1,0 +1,8 @@
+D:\A7\A7\bin\Debug\A7.exe.config
+D:\A7\A7\bin\Debug\A7.exe
+D:\A7\A7\bin\Debug\A7.pdb
+D:\A7\A7\obj\Debug\A7.csproj.AssemblyReference.cache
+D:\A7\A7\obj\Debug\A7.csproj.SuggestedBindingRedirects.cache
+D:\A7\A7\obj\Debug\A7.csproj.CoreCompileInputs.cache
+D:\A7\A7\obj\Debug\A7.exe
+D:\A7\A7\obj\Debug\A7.pdb
